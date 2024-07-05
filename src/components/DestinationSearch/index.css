@@ -1,0 +1,25 @@
+/* Write your CSS here */
+.bg-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 96vh;
+  text-align: center;
+}
+.list-prop {
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+}
+.input-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.input-box {
+  padding: 12px;
+}
+.logo {
+  height: 30px;
+}
